@@ -1,0 +1,7 @@
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\bin\Debug\currancy thing 2.exe.config
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\bin\Debug\currancy thing 2.exe
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\bin\Debug\currancy thing 2.pdb
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\obj\Debug\currancy thing 2.csprojAssemblyReference.cache
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\obj\Debug\currancy thing 2.csproj.CoreCompileInputs.cache
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\obj\Debug\currancy thing 2.exe
+D:\School work\coding exam work\currancy thing 2\currancy thing 2\obj\Debug\currancy thing 2.pdb
